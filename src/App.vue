@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <div style="font-size: 30px; color:red;">测试自动化部署~~~~哇卡卡</div>
+    <div style="font-size: 30px; color:red;">测试自动化部署~~~~</div>
+    <div style="font-size: 30px; color:red;">哇卡卡~~~~终于成功了，nice</div>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
